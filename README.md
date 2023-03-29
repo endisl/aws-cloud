@@ -32,5 +32,13 @@ AWS App Runner is a fully managed container application service that lets you bu
 
 <a href="https://www.coursera.org/learn/building-modern-python-applications-on-aws">[Course]</a>
 
-Amazon API Gateway for serverless API hosting, AWS Lambda for serverless computing, Amazon Cognito for serverless authentication and much more!
+Amazon API Gateway for serverless API hosting, AWS Lambda for serverless computing, Amazon Cognito for serverless authentication and much more!  
+
+  
+
+<p align="center">
+<img src="https://github.com/endisl/aws-cloud/blob/master/serverless_application.png" alt="Serverless App" style="width:75%;"/>
+</p>
+<p align="center">Serverless Application Architecture built with Lucidchart</p>
+
 
