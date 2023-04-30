@@ -34,3 +34,6 @@ AWS App Runner is a fully managed container application service that lets you bu
 
 Amazon API Gateway for serverless API hosting, AWS Lambda for serverless computing, Amazon Cognito for serverless authentication and much more!
 
+## Platform [a new way on its way]
+dj-ng-gpt-pg-aws  
+99% of requirements gathered  
